@@ -1,0 +1,2 @@
+https://github.com/hkk5cape/static-website
+.git
